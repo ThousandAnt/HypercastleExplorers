@@ -1,0 +1,21 @@
+
+Level Number: 1 Tokens On Level: 16 SpaceVector: x: 4659776 y: 4659776 z: 1959266
+Level Number: 2 Tokens On Level: 64 SpaceVector: x: 4236160 y: 4236160 z: 3441922
+Level Number: 3 Tokens On Level: 64 SpaceVector: x: 4236160 y: 4236160 z: 4765722
+Level Number: 4 Tokens On Level: 256 SpaceVector: x: 3388928 y: 3388928 z: 6248378
+Level Number: 5 Tokens On Level: 256 SpaceVector: x: 3388928 y: 3388928 z: 7572178
+Level Number: 6 Tokens On Level: 576 SpaceVector: x: 2541696 y: 2541696 z: 8895978
+Level Number: 7 Tokens On Level: 576 SpaceVector: x: 2541696 y: 2541696 z: 10219778
+Level Number: 8 Tokens On Level: 576 SpaceVector: x: 2541696 y: 2541696 z: 12496714
+Level Number: 9 Tokens On Level: 256 SpaceVector: x: 3388928 y: 3388928 z: 13661658
+Level Number: 10 Tokens On Level: 1024 SpaceVector: x: 1694464 y: 1694464 z: 15462026
+Level Number: 11 Tokens On Level: 1024 SpaceVector: x: 1694464 y: 1694464 z: 15991548
+Level Number: 12 Tokens On Level: 256 SpaceVector: x: 3388928 y: 3388928 z: 17950774
+Level Number: 13 Tokens On Level: 2304 SpaceVector: x: 0 y: 0 z: 19433432
+Level Number: 14 Tokens On Level: 2304 SpaceVector: x: 0 y: 0 z: 20916090
+Level Number: 15 Tokens On Level: 576 SpaceVector: x: 2541696 y: 2541696 z: 22875316
+Level Number: 16 Tokens On Level: 576 SpaceVector: x: 2541696 y: 2541696 z: 23404838
+Level Number: 17 Tokens On Level: 256 SpaceVector: x: 3388928 y: 3388928 z: 25205208
+Level Number: 18 Tokens On Level: 64 SpaceVector: x: 4236160 y: 4236160 z: 26846722
+Level Number: 19 Tokens On Level: 64 SpaceVector: x: 4236160 y: 4236160 z: 28011668
+Level Number: 20 Tokens On Level: 16 SpaceVector: x: 4659776 y: 4659776 z: 30129751
